@@ -1,3 +1,3 @@
 # QuickBite
 
-Live Demo Link: https://satyam2747.github.io/QuickBite/
+Live Demo Link: https://quick-bite-sigma.vercel.app/
